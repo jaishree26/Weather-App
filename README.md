@@ -1,10 +1,10 @@
 
-#Project Description :
+## Project Description :
 
 The Weather App is a web application that allows users to check real-time weather information for a specific city. It utilizes the OpenWeatherMap API to fetch weather data based on user input.
 
 
-#Features :
+## Features :
 
 City Weather Lookup: Users can enter the name of a city and retrieve current weather conditions.
 
@@ -13,7 +13,7 @@ Temperature, Humidity, and Wind Speed: The app displays temperature, humidity, a
 Responsive Design: The user interface adapts to different screen sizes (desktop, tablet, and mobile).
 
 
-#Usage :
+## Usage :
 
 Enter the name of a city in the input field.
 
@@ -22,7 +22,7 @@ Click the “Location-icon” button.
 The app will display the current weather conditions for the specified city.
 
 
-#API Key Setup :
+## API Key Setup :
 
 To use the OpenWeatherMap API, you’ll need an API key. Follow these steps:
 
@@ -33,6 +33,6 @@ Generate an API key.
 Replace the placeholder API key in the script.js file with your actual API key.
 
 
-#Contributing :
+## Contributing :
 
 Contributions are welcome! If you’d like to improve this project, feel free to submit a pull request.
